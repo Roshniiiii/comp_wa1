@@ -1,0 +1,20 @@
+Intro to BST
+https://youtu.be/NG3zr4zk9Mg
+https://youtu.be/v9DHi_QsRvQ
+https://youtu.be/FOxCR2QpdDg
+https://www.tiktok.com/@compwa1/video/7338781157263183137?is_from_webapp=1&sender_device=pc&web_id=7338810962457134593
+https://www.tiktok.com/@compwa1/video/7338763723017932065?is_from_webapp=1&sender_device=pc&web_id=7338810962457134593
+
+BST traversals
+https://youtu.be/OLf5WwCwjZg
+https://www.tiktok.com/@compwa1/video/7338764166628494625?is_from_webapp=1&sender_device=pc&web_id=7338810962457134593
+https://www.tiktok.com/@compwa1/video/7338764648637844769?is_from_webapp=1&sender_device=pc&web_id=7338810962457134593
+https://www.tiktok.com/@compwa1/video/7338764697136565537?is_from_webapp=1&sender_device=pc&web_id=7338810962457134593
+
+Drawing Binary tree
+https://youtu.be/hIIRJTL5DrA
+
+BST practical
+https://youtu.be/FJTmwO_EkeE
+https://youtu.be/04AU0U0f-k8
+https://youtu.be/DqDQSHId54E
